@@ -1,11 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stevens-Mark&show_icons=true&theme=dark" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stevens-Mark&show_icons=true&theme=dark" />
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-Mark&hide=php,shell&layout=compact&theme=dark" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-Mark&hide=php,shell&layout=compact&theme=dark" />
+</p>
 
 <!--
 **Stevens-Mark/Stevens-Mark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
