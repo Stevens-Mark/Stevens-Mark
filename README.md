@@ -71,7 +71,7 @@ Aware that I am new to this domain, I would like to find a company where I can p
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-mark&hide_border=true&layout=compact&hide=php,shell&theme=dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-mark&hide_border=true&layout=compact&langs_count=6&hide=php,shell&theme=dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
