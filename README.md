@@ -4,7 +4,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stevens-Mark&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-Mark&hide=php&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-Mark&hide=php,shell&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Stevens-Mark&layout=compact&theme=dark" />
 </a>
 
 <!--
