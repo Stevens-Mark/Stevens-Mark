@@ -78,14 +78,12 @@ Aware that I am new to this domain, I would like to find a company where I can p
 <br/>  
 
   
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Stevens-mark&&style=flat-square)  
   
 
 <br/>  
-
 
 <br />
 
