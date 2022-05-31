@@ -67,7 +67,7 @@ Aware that I am new to this domain, I would like to find a company where I can p
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Stevensmark&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Stevens-mark&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
