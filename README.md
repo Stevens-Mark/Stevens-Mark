@@ -32,7 +32,7 @@ Aware that I am new to this domain, I would like to find a company where I can p
 - 👉 You can contact me at: [LinkedIn](https://www.linkedin.com/in/markspstevens/)  
 
 
-</td><td valign="top" width="50%">
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
