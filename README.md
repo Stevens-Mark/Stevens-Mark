@@ -21,10 +21,9 @@ Aware that I am new to this domain, I would like to find a company where I can p
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently available for work....  Spotify Api
-  
+
+- 🔭 I’m currently available for work....  
 
 - 🌱 You can see my Portfolio at: [Portfolio](https://stevensmarkportfolio.netlify.app/)  
   
