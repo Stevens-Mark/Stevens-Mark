@@ -23,7 +23,7 @@ Aware that I am new to this domain, I would like to find a company where I can p
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently available for work....  
+- 🔭 I’m currently available for work....  Spotify Api
   
 
 - 🌱 You can see my Portfolio at: [Portfolio](https://stevensmarkportfolio.netlify.app/)  
@@ -64,21 +64,7 @@ Aware that I am new to this domain, I would like to find a company where I can p
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Stevens-mark&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-mark&hide_border=true&layout=compact&langs_count=6&hide=php,shell&theme=dark" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
   
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Stevens-mark&&style=flat-square)  
   
@@ -88,7 +74,7 @@ Aware that I am new to this domain, I would like to find a company where I can p
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 <!--
 **Stevens-Mark/Stevens-Mark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
